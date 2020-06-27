@@ -1,0 +1,8 @@
+random
+re
+playsound
+gtts 
+os 
+pygame
+json
+newspaper
